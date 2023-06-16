@@ -1,1 +1,2 @@
-# PHP-Problem-Solvings
+# Example
+For Example purpose
